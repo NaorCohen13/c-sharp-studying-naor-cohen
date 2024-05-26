@@ -20,7 +20,6 @@ namespace c_sharp_studying_naor_cohen
             Stock s1 = new Stock("AAPL",189.89,"Apple,INC");
             Stock s2 = new Stock("TSLA", 179.24, "Tesla,INC");
             Stock s3 = new Stock("COKE", 992.75, "Coca-Cola Consolidated,Inc");
-            Stock s4;
             Stock[] arr = new Stock[3];
             arr[0] = s1;
             arr[1] = s2;
