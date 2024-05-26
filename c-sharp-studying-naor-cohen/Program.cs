@@ -7,7 +7,7 @@ namespace c_sharp_studying_naor_cohen
         static void Main(string[] args)
         {
             MainProcess.Run();
-       
+           //מדפיס את מה שבפעולה
            
         }
     }
